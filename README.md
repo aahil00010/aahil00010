@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🚀 About Me:
 👋 Hi, I'm Aahil<br>I'm an electronics and robotics enthusiast with a passion for building smart systems that bridge the gap between hardware and software. From hands-on circuit design in Tinkercad to autonomous robot navigation in ROS 2, I love exploring how electronics power real-world innovations.<br>🧰 Tools & Tech:<br> •Arduino • Tinkercad • ROS 2 • Gazebo • Python • C++ •C • Linux • RViz • Git<br>🔬 Interests:<br> •Embedded systems & electronics<br> •Sensor interfacing & motor control<br> •Robotics simulation and AI behaviors<br> •Prototyping with microcontrollers<br> •Smart automation projects<br>🎓 Education:<br>B.Tech in Electronics and Communication Engineering at Manipal Institute of Technology, Manipal<br>
 
 
